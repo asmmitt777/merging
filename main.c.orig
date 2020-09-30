@@ -13,12 +13,15 @@ security patch()
 {
  //security patch added
 }
+<<<<<<< HEAD
 feature1()
 {
 //feature1 is added
+=======
 feature2()
 {
 //feature2 is added
+>>>>>>> feature2
 }
 
 }
